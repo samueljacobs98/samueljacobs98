@@ -8,6 +8,8 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 
 ---
 
+## Languages, Frameworks, and Tools:
+
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 4px">
 <!-- html5 -->
 <img src="https://img.shields.io/badge/-HTML5-blueviolet?logo=html5" />
