@@ -43,6 +43,9 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 
 <!-- adobe creative cloud -->
 <img src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-blueviolet?logo=adobe-creative-cloud" />
+  
+<!-- SolidWorks -->
+<img src="https://img.shields.io/badge/-SolidWorks-blueviolet" />
 </div>
 
 ---
