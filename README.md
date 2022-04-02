@@ -50,6 +50,14 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 
 ---
 
+## Connect with me
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/samuel-j-66a84ba2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/_samuel.jacobs_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 ## Check out my portfolio
 
 https://samueljacobs98.github.io/portfolio-website-react/
