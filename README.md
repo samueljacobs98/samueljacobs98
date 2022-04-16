@@ -46,6 +46,21 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
   
 <!-- SolidWorks -->
 <img src="https://img.shields.io/badge/-SolidWorks-blueviolet" />
+    
+<!-- Spring boot -->
+<img src="https://img.shields.io/badge/-Spring%20Boot-blueviolet?logo=spring" />
+  
+<!-- Eleventy -->
+<img src="https://img.shields.io/badge/-Eleventy-blueviolet?logo=eleventy" />
+  
+<!-- Netlify CMS -->
+<img src="https://img.shields.io/badge/-Netlify%20CMS-blueviolet?logo=netlify" />
+  
+<!-- Google Cloud Platform -->
+<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-blueviolet?logo=google-cloud" />
+  
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/-MySQL-blueviolet?logo=mysql" />
 </div>
 
 ---
