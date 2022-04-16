@@ -61,6 +61,10 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
   
 <!-- MySQL -->
 <img src="https://img.shields.io/badge/-MySQL-blueviolet?logo=mysql" />
+  
+  
+<!-- Postman -->
+<img src="https://img.shields.io/badge/-Postman-blueviolet?logo=postman" />
 </div>
 
 ---
