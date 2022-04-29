@@ -69,6 +69,12 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 
 ---
 
+## My Stats
+
+<div style="display: flex; width: 100%; justify-content: center; padding-top: 2rem;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljacobs98&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></div>
+
+---
+
 ## Connect with me
 
 <!-- LinkedIn -->
@@ -76,6 +82,8 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 
 <!-- Instagram -->
 <a href="https://www.instagram.com/_samuel.jacobs_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+---
 
 ## Check out my portfolio
 
