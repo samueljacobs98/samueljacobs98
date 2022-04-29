@@ -32,6 +32,9 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 <!-- React -->
 <img src="https://img.shields.io/badge/-ReactJS-blueviolet?logo=react" />
 
+<!-- TypeScript -->
+<img src="https://img.shields.io/badge/-TypeScript-blueviolet?logo=TypeScript" />  
+  
 <!-- java -->
 <img src="https://img.shields.io/badge/-Java-blueviolet?logo=java" />
 
