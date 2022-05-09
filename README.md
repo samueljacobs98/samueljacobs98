@@ -24,7 +24,13 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 <img src="https://img.shields.io/badge/-SCSS-blueviolet?logo=sass" />
 
 <!-- javascript -->
-<img src="https://img.shields.io/badge/-JavaScript-blueviolet?logo=javascript" />
+<img src="https://img.shields.io/badge/-JavaScript-blueviolet?logo=javascript" /> 
+
+<!-- NodeJS -->
+<img src="https://img.shields.io/badge/-NodeJS-blueviolet?logo=node.js" />
+  
+<!-- Express.js -->
+<img src="https://img.shields.io/badge/-Express.js-blueviolet?logo=express" />
 
 <!-- jest -->
 <img src="https://img.shields.io/badge/-Jest-blueviolet?logo=jest" />
