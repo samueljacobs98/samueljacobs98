@@ -80,7 +80,7 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 
 ## My Stats
 
-<div style="display: flex; width: 100%; justify-content: center; padding-top: 2rem;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljacobs98&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></div>
+
 
 ---
 
