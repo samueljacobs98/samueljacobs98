@@ -6,6 +6,10 @@ I wanted to find a job that used the skills I'd spent the last four years develo
 
 In January 2022, I started training as a junior software engineer⌨️ on the \_nology consultancy programme. I've loved every minute yet and have found full-stack software engineering to perfectly satisfy my desire to work on tackling technical problems (my degree comes in really handy for this!) as well as my desire to design (it's got to be human-centred!).
 
+I am currently programming in <b>Scala</b> and <b>Play</b>:
+
+<a href="https://github.com/samueljacobsHMRC"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 ---
 
 ## Languages, Frameworks, and Tools:
@@ -25,6 +29,12 @@ In January 2022, I started training as a junior software engineer⌨️ on the \
 
 <!-- javascript -->
 <img src="https://img.shields.io/badge/-JavaScript-blueviolet?logo=javascript" /> 
+
+<!-- Scala -->
+<img src="https://img.shields.io/badge/-Scala-blueviolet?logo=scala" /> 
+
+<!-- Play -->
+<img src="https://img.shields.io/badge/-Play-blueviolet?logo=play" /> 
 
 <!-- NodeJS -->
 <img src="https://img.shields.io/badge/-NodeJS-blueviolet?logo=node.js" />
