@@ -1,10 +1,8 @@
 ## ![](./assets/images/header.png)
 
-After completing my masters in mechanical engineering🚀 at the University of Birmingham in 2021, I wondered what was next🤔...
+Hi there! I'm a full-stack engineer who's passionate about solving problems and creating solutions that are centered around people. I studied Mechanical Engineering MEng and I'm always looking for ways to apply my technical expertise to tackle new challenges.
 
-I wanted to find a job that used the skills I'd spent the last four years developing during my degree, but also integrated my passion for design💻 and maybe even photography📷..?
-
-In January 2022, I started training as a junior software engineer⌨️ on the \_nology consultancy programme. I've loved every minute yet and have found full-stack software engineering to perfectly satisfy my desire to work on tackling technical problems (my degree comes in really handy for this!) as well as my desire to design (it's got to be human-centred!).
+I love working in the fast-paced and exciting world of technology, and I believe in combining critical thinking with design principles to create solutions that have a positive impact. I'm always looking for ways to improve my problem-solving skills and I'm enthusiastic about collaboration with others to achieve great results.
 
 I am currently working at Ernst and Young, programming in <b>Scala</b> and <b>Play</b> while consulting on Making Tax Digital (MTD) API for HMRC:
 
@@ -102,8 +100,8 @@ I am currently working at Ernst and Young, programming in <b>Scala</b> and <b>Pl
 <!-- Instagram -->
 <a href="https://www.instagram.com/_samuel.jacobs_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
----
+<!-- ---
 
 ## Check out my portfolio
 
-https://samueljacobs98.github.io/portfolio-website-react/
+https://samueljacobs98.github.io/portfolio-website-react/ -->
