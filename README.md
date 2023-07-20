@@ -8,6 +8,8 @@ I am currently working at Ernst and Young, programming in <b>Scala</b> and <b>Pl
 
 <a href="https://github.com/samueljacobsHMRC"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+I am currently learning Go! Check out my progress [here!](https://github.com/samueljacobs98/go)
+
 ---
 
 ## Languages, Frameworks, and Tools:
