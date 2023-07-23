@@ -19,6 +19,9 @@ I am currently learning Go! Check out my progress [here!](https://github.com/sam
 <!-- Scala -->
 <img src="https://img.shields.io/badge/-Scala-blueviolet?logo=scala" /> 
 
+<!-- Go -->
+<img src="https://img.shields.io/badge/-Go-blueviolet?logo=go" /> 
+
 <!-- Play -->
 <img src="https://img.shields.io/badge/-Play-blueviolet?logo=play" /> 
 
