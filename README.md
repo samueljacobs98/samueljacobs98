@@ -1,20 +1,39 @@
 ## ![](./assets/images/header.png)
 
-Hi there! I'm a full-stack engineer who's passionate about solving problems and creating solutions that are centered around people. I studied Mechanical Engineering MEng and I'm always looking for ways to apply my technical expertise to tackle new challenges.
+Hi there! I'm a full-stack generative-AI integration engineer who's passionate about solving problems and creating solutions that are centered around people. I studied Mechanical Engineering MEng and I'm always looking for ways to apply my technical expertise to tackle new challenges.
 
 I love working in the fast-paced and exciting world of technology, and I believe in combining critical thinking with design principles to create solutions that have a positive impact. I'm always looking for ways to improve my problem-solving skills and I'm enthusiastic about collaboration with others to achieve great results.
 
-I am currently working at Ernst and Young, programming in <b>Scala</b> and <b>Play</b> while consulting on Making Tax Digital (MTD) API for HMRC:
+I am currently working at QVC within the AI Centre of Excellence (CoE), primarily using <b>TypeScript</b>, <b>React</b>, and <b>Express</b> to create AI-integrated experiences that improve the customer and worker experience.
 
-<a href="https://github.com/samueljacobsHMRC"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-I am currently learning Python and Go! Check out my Go progress [here!](https://github.com/samueljacobs98/go)
+Previously I worked at Ernst and Young, programming in <b>Scala</b> and <b>Play</b> while consulting on Making Tax Digital (MTD) API for HMRC: <a href="https://github.com/samueljacobsHMRC"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
 ## Languages, Frameworks, and Tools:
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 6px">
+
+<!-- javascript -->
+<img src="https://img.shields.io/badge/-JavaScript-blueviolet?logo=javascript" /> 
+
+<!-- NodeJS -->
+<img src="https://img.shields.io/badge/-NodeJS-blueviolet?logo=node.js" />
+  
+<!-- Express.js -->
+<img src="https://img.shields.io/badge/-Express.js-blueviolet?logo=express" />
+
+<!-- jest -->
+<img src="https://img.shields.io/badge/-Jest-blueviolet?logo=jest" />
+
+<!-- React -->
+<img src="https://img.shields.io/badge/-ReactJS-blueviolet?logo=react" />
+
+<!-- TypeScript -->
+<img src="https://img.shields.io/badge/-TypeScript-blueviolet?logo=TypeScript" />  
+
+<!-- tailwind -->
+<img src="https://img.shields.io/badge/-Tailwindcss-blueviolet?logo=tailwindcss" /> 
 
 <!-- Scala -->
 <img src="https://img.shields.io/badge/-Scala-blueviolet?logo=scala" /> 
@@ -36,24 +55,6 @@ I am currently learning Python and Go! Check out my Go progress [here!](https://
 
 <!-- scss -->
 <img src="https://img.shields.io/badge/-SCSS-blueviolet?logo=sass" />
-
-<!-- javascript -->
-<img src="https://img.shields.io/badge/-JavaScript-blueviolet?logo=javascript" /> 
-
-<!-- NodeJS -->
-<img src="https://img.shields.io/badge/-NodeJS-blueviolet?logo=node.js" />
-  
-<!-- Express.js -->
-<img src="https://img.shields.io/badge/-Express.js-blueviolet?logo=express" />
-
-<!-- jest -->
-<img src="https://img.shields.io/badge/-Jest-blueviolet?logo=jest" />
-
-<!-- React -->
-<img src="https://img.shields.io/badge/-ReactJS-blueviolet?logo=react" />
-
-<!-- TypeScript -->
-<img src="https://img.shields.io/badge/-TypeScript-blueviolet?logo=TypeScript" />  
   
 <!-- java -->
 <img src="https://img.shields.io/badge/-Java-blueviolet?logo=java" />
