@@ -1,12 +1,14 @@
 ## ![](./assets/images/header.png)
 
-Hi there! I'm a full-stack generative-AI integration engineer who's passionate about solving problems and creating solutions that are centered around people. I studied Mechanical Engineering MEng and I'm always looking for ways to apply my technical expertise to tackle new challenges.
+Hey! I'm a full stack software engineer, curious about learning new tech, testing out new design patterns, and building fun, interesting, and useful things.
 
-I love working in the fast-paced and exciting world of technology, and I believe in combining critical thinking with design principles to create solutions that have a positive impact. I'm always looking for ways to improve my problem-solving skills and I'm enthusiastic about collaboration with others to achieve great results.
+I'm currently working at Novabook where I'm helping build modern, user-focused accounting software for our accountants and our clients (primarily start-ups), working across domains and technologies including TypeScript, Terraform, AWS, Next.js, Tailwind, and the AI SDK. 
 
-I am currently working at QVC within the AI Centre of Excellence (CoE), primarily using <b>TypeScript</b>, <b>React</b>, and <b>Express</b> to create AI-integrated experiences that improve the customer and worker experience.
+Previously, as a Generative AI Integration Engineer at QVC, I designed and delivered innovative, user-centric applications by leveraging cutting-edge generative AI technologies. From ideation to deployment, I specialised in integrating tools like LangChain.js, the Vercel AI SDK, semantic search, and retrieval-augmented generation (RAG) with a modern tech stack, including React, Next.js, CosmosDB, and Express. My work emphasised intuitive design, scalability, and alignment with business goals. Guided by a philosophy of rapid iteration, I focused on getting software into users' hands early, enabling frequent course corrections to build truly impactful solutions.
 
-Previously I worked at Ernst and Young, programming in <b>Scala</b> and <b>Play</b> while consulting on Making Tax Digital (MTD) API for HMRC: <a href="https://github.com/samueljacobsHMRC"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+Prior to QVC, I contributed to HMRC’s Making Tax Digital (MTD) API Project as a Software Engineer at Ernst & Young (via _Nology), where I developed and enhanced over 20 RESTful API financial microservices, led refactoring initiatives, and implemented dynamic documentation systems. This role also strengthened my foundation in agile methodologies. My focus on quality, upskilling, and innovation earned me multiple awards for my contributions.
+
+I hold a First-Class MEng in Mechanical Engineering and transitioned into tech through an intensive full-stack bootcamp.
 
 ---
 
